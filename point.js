@@ -1,7 +1,5 @@
 'use strict';
 
-module.exports = Point;
-
 /**
  * A standalone point geometry with useful accessor, comparison, and
  * modification methods.
