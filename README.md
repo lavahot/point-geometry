@@ -300,10 +300,10 @@ var point = new Point(0, 1);
 
 ## Installation
 
-Requires [nodejs](http://nodejs.org/).
+Reference in script tag
 
-```sh
-$ npm install point-geometry
+```
+<script>point-geometry.js</script>
 ```
 
 ## Tests
